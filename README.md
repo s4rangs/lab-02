@@ -7,7 +7,8 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+https://stackoverflow.com/questions/13675822/android-alertdialog-builder
+https://teamtreehouse.com/community/how-to-add-a-button-on-xml
 
 ## Verbal Collaboration
 
